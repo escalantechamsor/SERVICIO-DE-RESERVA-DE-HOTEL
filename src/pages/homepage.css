@@ -1,0 +1,12 @@
+#practicas{
+    animation: levitar  5s infinite;
+    animation-delay: 5s;
+}
+@keyframes levitar {
+    100%{
+        transform: translateY(-10vh);
+        
+ 
+    }
+ 
+}
